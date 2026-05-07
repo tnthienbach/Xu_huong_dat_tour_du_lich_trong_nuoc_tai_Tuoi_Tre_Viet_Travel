@@ -34,7 +34,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
 
-* Nhóm khách 
+ *
   
  2. Doanh thu
 
@@ -42,11 +42,15 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
 * Doanh thu của Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 () và 2023 (), nhưng sau đó tăng mạnh trong hai năm 2024 () và 2025 ().
 
-* 
-* k
-* 'k
-* kj'
-* 
+* Giá trị trung bình tour giảm mạnh trong năm 2024: giá trị trung bình tour du lịch tại Tuổi Trẻ Việt Travel trong năm 2022, 2023 và 2025 cao hơn đáng kể so với năm 2024
+
+_pie chart
+  
+* Doanh thu từ tour du lịch biển chiếm đa số: doanh thu từ các tour Du lịch biển chiếm phần lớn doanh thu tại , tiếp theo sau là tour gia đình và tour khám phá
+
+* Nhóm khách hàng là gia đình hay những người đã đi làm đóng góp doanh thu lớn của công ty.
+
+* Nhóm khách solo đông nhưng không thu hút doanh thu: Tuy lầ nhóm khách hàng thu hút nhiều khách nhất, nhưng doanh thu và doanh thu trung bình thấp nhất họ nhận được lại nằm ở nhóm thấp nhât
  
  3. Trải nghiệm dịch vụ
 
