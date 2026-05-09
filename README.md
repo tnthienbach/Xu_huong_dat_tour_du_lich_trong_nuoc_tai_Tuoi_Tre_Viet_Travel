@@ -34,7 +34,8 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
 
- *
+ * Các tour ăn uống và cách ly khỏi thành phố chưa nhận được nhiều lượt đặt tour
+
   
  2. Doanh thu
 
@@ -48,11 +49,20 @@ _pie chart
   
 * Doanh thu từ tour du lịch biển chiếm đa số: doanh thu từ các tour Du lịch biển chiếm phần lớn doanh thu tại , tiếp theo sau là tour gia đình và tour khám phá
 
-* Nhóm khách hàng là gia đình hay những người đã đi làm đóng góp doanh thu lớn của công ty.
+* Giá trị trung bình trên một đợt đặt tour của các tour khám phá cao nhất, theo sau là tour biển và tour gia đình
 
-* Nhóm khách solo đông nhưng không thu hút doanh thu: Tuy lầ nhóm khách hàng thu hút nhiều khách nhất, nhưng doanh thu và doanh thu trung bình thấp nhất họ nhận được lại nằm ở nhóm thấp nhât
+* Các địa điểm giáp biển thu hút khách: Các tour du lịch đi Phú Quốc, Nha Trang, Đà Nẵng, Hạ Long ghi nhận doanh thu lớn
+
  
- 3. Trải nghiệm dịch vụ
+ 3. Nhóm khách hàng chính
+
+* Nhóm khách đơn: đây là nhóm ghi nhận lượng tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy là nhóm đóng góp doanh thu thấp cho công ty, doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp
+
+* Nhóm khách 2 người: là nhóm ghi nhận lượng tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel
+
+* Nhóm khách 3-5 người: tuy không ko ghi nhận lượng đặt tour lớn như hai nhóm đầu, nhưng các nhóm này đóng góp doanh thu lớn cho công ty. Doanh thu trung bình trên mỗi lượt đặt tour của nhóm cao hơn nhiều so với hai nhóm còn lại
+   
+ 4.  Trải nghiệm dịch vụ
 
 * Ưa chuộng đặt tour qua website: Khách hàng có xu hướng đặt tour nhiều nhất qua website (), sau đó tới ứng dụng di động và đại lý bán hàng ()
 
@@ -69,8 +79,15 @@ _Pie chart
  IV. Đề xuất giải pháp
 
  * Bán hàng
+n
+
  * Sản phẩm
+m
+
  * Vận hành
+
+t
+
  * Nghiên cứu
 
 
