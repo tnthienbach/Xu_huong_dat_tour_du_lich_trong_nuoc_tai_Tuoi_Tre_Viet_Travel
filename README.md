@@ -37,8 +37,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  * Tour du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
 
 <div align="center">
-<h1><img width="278" height="145" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121" /><img width="282" height="145" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" /><h1>
+<h1><img width="282" height="145" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" /><img width="278" height="145" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121"
+  /><h1>
 </div>
+  
   
  * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
 
@@ -47,14 +49,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  2. Doanh thu
 
-  _ Biểu đồ đường
+<img width="490" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" />
 
 * Doanh thu của Tuổi Trẻ Việt Travel tăng nhẹ trong hai năm 2022 () và 2023 (), nhưng sau đó tăng mạnh trong hai năm 2024 () và 2025 ().
 
-* Giá trị trung bình tour giảm mạnh trong năm 2024: giá trị trung bình tour du lịch tại Tuổi Trẻ Việt Travel trong năm 2022, 2023 và 2025 cao hơn đáng kể so với năm 2024
-
-_pie chart
-  
 * Doanh thu từ tour du lịch biển chiếm đa số: doanh thu từ các tour Du lịch biển chiếm phần lớn doanh thu tại , tiếp theo sau là tour gia đình và tour khám phá
 
 * Giá trị trung bình trên một đợt đặt tour của các tour khám phá cao nhất, theo sau là tour biển và tour gia đình
@@ -64,9 +62,14 @@ _pie chart
  
  3. Nhóm khách hàng chính
 
+<img width="285" height="137" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
+<img width="273" height="145" alt="Image" src="https://github.com/user-attachments/assets/e2a3c851-cc9f-4623-93e9-8e90ad5c1d21"/>
 
- <img width="441" height="230" alt="Image" src="https://github.com/user-attachments/assets/5da46aaa-e00b-4288-b371-51887001c839"/>
- 
+*Nhóm khách
+
+<img width="441" height="230" alt="Image" src="https://github.com/user-attachments/assets/5da46aaa-e00b-4288-b371-51887001c839"/>
+<img width="284" height="149" alt="Image" src="https://github.com/user-attachments/assets/96fdfbf6-b3dd-45e1-a6b3-025cdcb88f18"/>
+<img width="272" height="143" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/> 
 
 * Nhóm khách đơn: đây là nhóm ghi nhận lượng tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy là nhóm đóng góp doanh thu thấp cho công ty, doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp
 
