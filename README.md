@@ -132,7 +132,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  IV. Đề xuất giải pháp
 
-Sau đây chúng tôi sẽ đề xuất một vài giải pháp nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
+Sau đây là những đề xuất giải pháp nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
 
  * Bán hàng
 
