@@ -34,13 +34,13 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  * Tăng chậm trong giai đoạn đầu: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đây đồng thời là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
    
- * Tăng mạnh trong hai năm tiếp theo: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Điều này cho thấy sự điều chỉnh chiến lược bán hàng, sản phẩm du lịch phù hợp với thị hiếu của khách của công ty đã mang lại hiệu quả
+ * Tăng mạnh trong hai năm tiếp theo: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Điều này cho thấy sự điều chỉnh chiến lược bán hàng, sản phẩm du lịch phù hợp với thị hiếu của khách của công ty đã mang lại hiệu quả.
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * Xu hướng đi du lịch vào dịp lễ và mùa hè: Tuổi Trẻ Việt Travel ghi nhận Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
+ * Nhu cầu đi du lịch vào dịp lễ và mùa hè: Tuổi Trẻ Việt Travel ghi nhận lượng đặt tour đi du lịch vào những dịp nghỉ lễ lớn (30/4, 1/5, 2/9, Tết Dương lịch), và các tháng hè (Tháng 5 - Tháng 8) cao nhất.
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" />
@@ -48,10 +48,9 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 </div>
   
   
- * Tour du lịch biển và gia đình là những tour nhận được nhiều lượt đặt nhất tại Tuổi Trẻ Việt Travel, với các điểm đến du lịch văn hóa và văn hóa nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang và Hội An thu hút lượng đặt tour lớn nhất
-
- * Các tour ăn uống và cách ly khỏi thành phố chưa nhận được nhiều lượt đặt tour
-
+ * Tour du lịch biển và văn hóa chiếm đa số: Các sản phảm du lịch biển và du lịch văn hóa cảu Tuổi Trẻ Việt Travel ghi nhận lượng đặt lớn nhất tại với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
+   
+ * nhiều dư địa phát triển cho tour City Break và ăn uống: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
   
  2. Doanh thu
 
