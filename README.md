@@ -10,7 +10,7 @@
 
  I. Bối cảnh
 
-Viet Youth Travel được thành lập vào năm 2011 tại thành phố Đà Nẵng, là một công ty cung cấp dịch vụ tour du lịch đi các điểm đến du lịch tại Việt Nam. Ở thời điểm thành lập, công ty cung cấp các tour du lịch đi Hội An, Đà Nẵng và Huế. Bắt đầu từ năm 2022, công ty mở rộng cung cấp các tour du lịch đến các địa điểm khác trong nước bao gồm Phú Quốc, Tp Hồ Chí MInh, Nha Trang, Đà Lạt, Hà Nội, Hạ Long, Sapa.
+Tuổi Trẻ Việt Travel được thành lập vào năm 2011 tại thành phố Đà Nẵng, là một công ty cung cấp dịch vụ tour du lịch đi các điểm đến du lịch tại Việt Nam. Ở thời điểm thành lập, công ty cung cấp các tour du lịch đi Hội An, Đà Nẵng và Huế. Bắt đầu từ năm 2022, công ty mở rộng cung cấp các tour du lịch đến các địa điểm khác trong nước bao gồm Phú Quốc, Tp Hồ Chí MInh, Nha Trang, Đà Lạt, Hà Nội, Hạ Long, Sapa.
 
 Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel, nhằm xác định các giai đoạn cao điểm, sản phẩm du lịch chính và phân khúc khách hàng mục tiêu của công ty. Trên cơ sở này, báo cáo sẽ đề xuất các giải pháp chiến lược nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
 
@@ -18,7 +18,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  * Doanh thu tăng chậm trong năm 2022 và 2023. Sau đó tăng mạnh vào năm 2024 và 2025.
  
- * Khách chủ yếu đặt tour đi du lịch vào các dịp nghỉ lễ (30/4, 1/5, 2/9, Tết) và đợt cao điểm du lịch hè (Tháng 5 - Tháng 7).
+ * Khách chủ yếu đặt tour đi du lịch vào các dịp nghỉ lễ (30/4, 1/5, 2/9, Tết) và đợt cao điểm du lịch hè (Tháng 5 - Tháng 8).
  
  * Các loại hình tour du lịch biển, gia đình, và khám phá văn hóa chiếm đa số, với những địa điểm du lịch như Phú Quốc, Đà Nẵng và Nha Trang là lựa chọn hàng đầu của khách du lịch.
  
@@ -26,7 +26,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  
  III. Phân tích dữ liệu
 
- 1.Xu hướng lượng đặt tour du lịch
+ 1.Xu hướng đặt tour du lịch
 
 <div align="center">
 <h1><img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" /><h1>
@@ -34,13 +34,13 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  * Tăng chậm trong giai đoạn đầu: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đây đồng thời là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
    
- * Tăng chậm trong giai đoạn đầu Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Điều này cho thấy sự điều chỉnh các sản phẩm du lịch phù hợp hơn với thị hiếu của khách của công ty đã mang lại hiệu quả
+ * Tăng mạnh trong hai năm tiếp theo: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Điều này cho thấy sự điều chỉnh chiến lược bán hàng, sản phẩm du lịch phù hợp với thị hiếu của khách của công ty đã mang lại hiệu quả
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * Xu hướng đi du lịch vào dịp lễ và mùa hè: Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
+ * Xu hướng đi du lịch vào dịp lễ và mùa hè: Tuổi Trẻ Việt Travel ghi nhận Khách chủ yêu đặt tour đi du lịch vào những dịp nghỉ lễ (30/4, 1/5, 2/9), dịp tết nguyên đán và những tháng hè (Tháng 5 - Tháng 8)
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" />
