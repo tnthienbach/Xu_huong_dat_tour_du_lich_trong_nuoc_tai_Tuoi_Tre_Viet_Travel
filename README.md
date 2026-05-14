@@ -87,19 +87,20 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/bf9290d4-9b95-49ba-986c-37fe327efdbe" /><h1>
 </div>
 
-* **Gia đình và người đi làm là đối tượng khách hàng chính**: 
+* **Gia đình và người đi làm là đối tượng khách hàng chính**: Số lượng tour được đặt bởi khách hàng là gia đình và người đi làm chiếm số lượng nhiều nhất (5.5k tour và 4.9k tour). Đây cũng là hai đối tượng ghi nhận doanh thu cao nhất (8.1 tỷ VND và 7.4 tỷ VND).
 
+  
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cc968c5f-c837-4451-aa1d-e92f0ba3a796" />
-<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/96fdfbf6-b3dd-45e1-a6b3-025cdcb88f18"/>
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/3447f2a7-212e-4c81-9f52-f7aef701a2fb" />
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/><h1>
 </div> 
 
-* Nhóm khách đơn: đây là nhóm ghi nhận lượng tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy là nhóm đóng góp doanh thu thấp cho công ty, doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp
+* **Nhóm đi 1 người ghi nhận số lượng lớn nhất**: Nhóm đi một người là nhóm ghi nhận lượng đặt tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy doanh thu thu được từ nhóm này thấp hơn so với doanh thu gốc, bên cạnh đó doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp. Nhóm này có nhu cầu du lịch cao nhưng có xu hướng tiêu dùng tiết kiệm và hay săn các chương trình khuyễn mại nhằm có cho mình các sản phẩm tour với mức giá vưa phải nhất.
 
-* Nhóm khách 2 người: là nhóm ghi nhận lượng tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel
-
-* Nhóm khách 3-5 người: tuy không ko ghi nhận lượng đặt tour lớn như hai nhóm đầu, nhưng các nhóm này đóng góp doanh thu lớn cho công ty. Doanh thu trung bình trên mỗi lượt đặt tour của nhóm cao hơn nhiều so với hai nhóm còn lại
+* **Nhóm khách 2 người đóng góp doanh thu lớn nhất**: Nhóm đi 2 người là nhóm ghi nhận số lượng đặt tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel. Doanh thu thu được từ nhóm này cao hơn nhiều so với doanh thu gốc, cho thấy đây là nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
+  
+* **Nhóm khách 3-5 người đóng góp doanh thu ổn định**: Tuy không ko ghi nhận lượng đặt tour lớn như hai nhóm đầu, nhưng nhóm đi từ 3-5 người đóng góp doanh thu lớn cho công ty. Bên cạnh đó, doanh thu trung bình trên mỗi lượt đặt tour của nhóm cao hơn nhiều so với hai nhóm còn lại. Tương tự như nhóm đi 2 người, nhóm 3-5 người nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
    
  4.  Trải nghiệm dịch vụ
 
