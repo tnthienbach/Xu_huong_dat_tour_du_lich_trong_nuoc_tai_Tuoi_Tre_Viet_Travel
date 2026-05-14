@@ -84,10 +84,10 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
-<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/e2a3c851-cc9f-4623-93e9-8e90ad5c1d21"/><h1>
+<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/bf9290d4-9b95-49ba-986c-37fe327efdbe" /><h1>
 </div>
 
-*Đối tượng khách
+* **Gia đình và người đi làm là đối tượng khách hàng chính**: 
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cc968c5f-c837-4451-aa1d-e92f0ba3a796" />
