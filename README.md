@@ -43,7 +43,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  * **Nhu cầu đi du lịch vào dịp lễ và mùa hè**: Tuổi Trẻ Việt Travel ghi nhận lượng đặt tour đi du lịch vào những **dịp nghỉ lễ lớn** (30/4, 1/5, 2/9, Tết Dương lịch), và **các tháng hè** (Tháng 5 - Tháng 8) cao nhất.
 
 <div align="center">
-<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/3c8aa673-183a-4141-bb02-2bf0987ccb78" />
+<h1><<img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/29bec791-8a36-4074-9929-6c9a66c666ab"/>
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/5a9c6218-6957-42d3-81c2-cd3f4ac95121" /><h1>
 </div>
   
