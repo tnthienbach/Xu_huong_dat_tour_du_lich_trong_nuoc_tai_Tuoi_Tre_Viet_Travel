@@ -75,7 +75,9 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1><img width="450" height="230" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" />
 </div>
 
-* **Các địa điểm du lịch đóng góp doanh thu lớn**: Các tour du lịch đi các địa điểm như Phú Quốc, Nha Trang, Đà Nẵng và Hạ Long ghi nhận doanh thu lớn .
+* **Các địa điểm du lịch lớn đóng góp doanh thu cao nhất**: Các tour du lịch đi các địa điểm giáp biển như **Phú Quốc** (3.1 tỷ VND), **Đà Nẵng** (3 tỷ VND), **Nha Trang** (2.8 tỷ VND) và **Hạ Long** (2.6 tỷ) ghi nhận doanh thu lớn nhất.
+
+* **Địa điểm văn hóa thu hút khách du lịch**: Bên cạnh các tour du lịch đến các địa điểm giáp biển, các tour đi các địa điểm văn hóa như **Tp Hồ Chí Minh** (2.3 tỷ VND), **Hội An** (2.3 tỷ VND) và **Đà Lạt** (2.1 Tỷ VND) cũng đóng góp doanh thu trên 2 tỷ VND cho công ty.
 
  
  3. Nhóm khách hàng chính
