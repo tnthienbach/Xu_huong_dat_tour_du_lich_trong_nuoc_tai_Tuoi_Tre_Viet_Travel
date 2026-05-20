@@ -83,11 +83,11 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  3. Nhóm khách hàng chính
 
 <div align="center">
-<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
+<h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/17b4cda5-40e6-495e-b5e4-fbe01101e52d" />
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/bf9290d4-9b95-49ba-986c-37fe327efdbe" /><h1>
 </div>
 
-* **Gia đình và người đi làm là đối tượng khách hàng chính**: Số lượng tour được đặt bởi khách hàng là gia đình và người đi làm chiếm số lượng nhiều nhất (5.5k tour và 4.9k tour). Đây cũng là hai đối tượng ghi nhận doanh thu cao nhất (8.1 tỷ VND và 7.4 tỷ VND).
+* **Gia đình và người đi làm là đối tượng khách hàng chính**: Số lượng tour được đặt bởi khách hàng là gia đình và người đi làm chiếm số lượng nhiều nhất (1155 tour và 982 tour). Đây cũng là hai đối tượng ghi nhận doanh thu cao nhất (8.1 tỷ VND và 7.4 tỷ VND).
 
   
 <div align="center">
