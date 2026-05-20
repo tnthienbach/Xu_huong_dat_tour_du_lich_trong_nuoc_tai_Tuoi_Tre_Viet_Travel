@@ -50,7 +50,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
  * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa của Tuổi Trẻ Việt Travel ghi nhận **lượng đặt tour lớn nhất** với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
    
- * Nhiều dư địa phát triển cho tour City Break và ăn uống: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
+ * **Nhiều dư địa phát triển cho tour City Break và ăn uống**: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
   
  2. Doanh thu
 
@@ -58,7 +58,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <h1><img width="488" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" /><h1>
 </div>
 
-* **Tăng nhẹ trong giai đoạn đầu nhưng tăng mạnh giai đoạn sau**: Doanh thu của Tuổi Trẻ Việt Travel được ghi nhận tăng nhẹ từ 4.7 tỷ VND năm 2022 lên 4.9 tỷ VND năm 2023 (), nhưng sau đó tăng mạnh trong năm 2024 (9 tỷ VND). Tuy vậy năm 2025 doanh thu đã giảm còn 6 tỷ VND.
+* **Tăng nhẹ trong giai đoạn đầu nhưng tăng mạnh giai đoạn sau**: Doanh thu của Tuổi Trẻ Việt Travel được ghi nhận tăng nhẹ từ 4.7 tỷ VND năm 2022 lên 4.9 tỷ VND năm 2023, nhưng sau đó tăng mạnh trong năm 2024 (9 tỷ VND). Tuy vậy năm 2025 doanh thu đã giảm còn 6 tỷ VND.
   
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" />
