@@ -34,13 +34,13 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 
  * **Tăng chậm trong giai đoạn đầu**: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đây đồng thời là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
    
- * **Tăng mạnh trong hai năm tiếp theo**: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Sự thay đổi định hướng sản phẩm du lịch phù hợp hơn với nhu cầu khách du lịch sau đại dịch của công ty đã cho thấy sự hiểu quả.
+ * **Tăng mạnh trong hai năm tiếp theo**: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023.
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * **Nhu cầu đi du lịch vào dịp lễ và mùa hè**: Tuổi Trẻ Việt Travel ghi nhận lượng đặt tour đi du lịch vào những **dịp nghỉ lễ lớn** (30/4, 1/5, 2/9, Tết Dương lịch), và **các tháng hè** (Tháng 5 - Tháng 8) cao nhất.
+ * **Nhu cầu đi du lịch vào dịp lễ và mùa hè**: Tuổi Trẻ Việt Travel ghi nhận lượng đặt tour đi du lịch vào các tháng có những **dịp nghỉ lễ lớn** (30/4, 1/5, 2/9, Tết Dương lịch), và **các tháng hè** (Tháng 5 - Tháng 8) cao nhất.
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/29bec791-8a36-4074-9929-6c9a66c666ab"/>
@@ -48,7 +48,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 </div>
   
   
- * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa của Tuổi Trẻ Việt Travel ghi nhận **lượng đặt tour lớn nhất** với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
+ * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa của Tuổi Trẻ Việt Travel ghi nhận **lượng đặt tour lớn nhất** với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch.
    
  * **Nhiều dư địa phát triển cho tour City Break và ăn uống**: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
   
@@ -66,9 +66,9 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 </div>
 
 
-* **Tổng doanh thu từ tour du lịch biển chiếm đa số**: các sản phẩm du lịch biển mang lại doanh thu cao nhất cho công ty (7.4 tỷ VND)
+* **Tổng doanh thu từ tour du lịch biển chiếm đa số**: các sản phẩm du lịch biển mang lại doanh thu cao nhất cho công ty (7.4 tỷ VND).
 
-* **Doanh thu trung bình tour khám phá đứng đầu**: Doanh thu trung bình của một tour khám phá tại Tuổi Trẻ Việt Travel ghi nhận đứng đầu với 8.5 triệu VND một chuyến, tiếp theo sau là tour gia đình (7.4 triệu VND) và tour biển (7.1 triệu VND)
+* **Doanh thu trung bình tour khám phá đứng đầu**: Doanh thu trung bình của một tour khám phá tại Tuổi Trẻ Việt Travel ghi nhận đứng đầu với 8.5 triệu VND một chuyến, tiếp theo sau là tour gia đình (7.4 triệu VND) và tour biển (7.1 triệu VND).
   
 
 <div align="center">
@@ -96,7 +96,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/><h1>
 </div> 
 
-* **Nhóm đi 1 người ghi nhận số lượng lớn nhất**: Nhóm đi một người là nhóm ghi nhận lượng đặt tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy doanh thu thu được từ nhóm này thấp hơn so với doanh thu gốc, bên cạnh đó doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp. Nhóm này có nhu cầu du lịch cao nhưng có xu hướng tiêu dùng tiết kiệm và hay săn các chương trình khuyễn mại nhằm có cho mình các sản phẩm tour với mức giá vưa phải nhất.
+* **Nhóm đi 1 người ghi nhận số lượng lớn nhất**: Nhóm đi một người là nhóm ghi nhận lượng đặt tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy doanh thu thu được từ nhóm này thấp hơn so với doanh thu gốc, bên cạnh đó doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp. Nhóm này có nhu cầu du lịch cao nhưng có xu hướng tiêu dùng tiết kiệm khi đi du lịch.
 
 * **Nhóm khách 2 người đóng góp doanh thu lớn nhất**: Nhóm đi 2 người là nhóm ghi nhận số lượng đặt tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel. Doanh thu thu được từ nhóm này cao hơn nhiều so với doanh thu gốc, cho thấy đây là nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
   
